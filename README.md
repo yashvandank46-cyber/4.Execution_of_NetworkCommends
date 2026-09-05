@@ -67,5 +67,6 @@ This commands includes
 # systeminfo
 
 <img width="1271" height="958" alt="644792495-841b06c4-3d0c-41e0-bfa2-d17e6e4f3d7b" src="https://github.com/user-attachments/assets/93727c36-fd37-41ec-b105-8a69fe4eea49" />
+
 ## Result
 Thus Execution of Network commands Performed 
